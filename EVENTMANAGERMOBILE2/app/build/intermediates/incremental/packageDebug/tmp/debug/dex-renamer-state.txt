@@ -1,0 +1,4 @@
+#Mon Sep 30 13:01:22 BRT 2019
+base.0=C\:\\Users\\Juliano.rossi\\Documents\\juliano\\EVENTMANAGERMOBILE2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
